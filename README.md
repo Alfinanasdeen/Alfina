@@ -1,4 +1,4 @@
-## align="center">Hi 👋, It's me Alfina
+## Hi 👋, It's me Alfina
 <h3 align="right">🚀 Full Stack MERN Developer | React.js | Node.js | MongoDB | Passionate About Clean Code & UI/UX</h3>
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3AxaDUyc3d4MGgxd2k4eTV0a20zOHh5YnpoN2w1M3NhbjQyaDBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
