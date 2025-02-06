@@ -4,7 +4,7 @@
 
 - 👨‍💻 Here's my [Portfolio](https://alfina-dev.netlify.app/)
 
-- 🌱 I’m currently learning **advanced full-stack & scalability**
+- 🌱 I’m currently learning **advanced Full-stack & Scalability**
 
 - 🤝 I'm seeking **developer opportunities to build, innovate, and grow.**
 
