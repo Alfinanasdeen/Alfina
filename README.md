@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, It's me Alfina</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | React.js | Node.js | MongoDB | Passionate About Clean Code & UI/UX</h3>
 
-- 👨‍💻 Here's my [Portfolio](https://alfina-dev.netlify.app/)
-
 - 🌱 I’m currently learning **advanced full-stack development & scalability**
 
 - 🤝 I’m looking for help with **Seeking developer opportunities to build, innovate, and grow.**
 
-- 💬 Ask me about **Tech**
-
-- 📫 How to reach me **alfinanasdeen@gmail.com**
+- 👨‍💻 Here's my [Portfolio](https://alfina-dev.netlify.app/)
 
 - 📄 Explore my professional experience [Resume](https://drive.google.com/file/d/14HC1mjeEl-pK4ecXo9HeVfOS5O-8Ivxj/view?usp=sharing)
+
+- 💬 Ask me about **Tech**
 
 - ⚡ Fun fact **I turn coffee into code and bugs into features!**
 
