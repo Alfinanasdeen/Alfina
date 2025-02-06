@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I turn coffee into code and bugs into features!**  
 
-<br /><br />  
+
 <h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://alfina-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Portfolio" height="30" width="40" /></a>
@@ -24,7 +24,6 @@
 </a>
 </p>
 
-<br /><br />
 
 <h3 align="left">Technologies I Work With:</h3>
 
