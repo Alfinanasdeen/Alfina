@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **advanced full-stack development & scalability**
 
-- 🤝 I’m looking for help with **Seeking developer opportunities to build, innovate, and grow.**
+- 🤝 I'm seeking **developer opportunities to build, innovate, and grow.**
 
 - 📄 Explore my professional experience [Resume](https://drive.google.com/file/d/14HC1mjeEl-pK4ecXo9HeVfOS5O-8Ivxj/view?usp=sharing)
 
