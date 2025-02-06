@@ -33,7 +33,14 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <h4 align="left">Backend</h4>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="react" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=9Gfx4Dfxl0JK&format=png" alt="redux" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="sass" width="40" height="40"/> </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=39858&format=png&color=FFFFFF" alt="sass" width="40" height="40"/> </a> 
+  <h4 align="left">DEV TOOLS</h4>
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sass" width="40" height="40"/> </a> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg
+" alt="sass" width="40" height="40"/> </a> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="	https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="sass" width="40" height="40"/> </a> 
 </p>
