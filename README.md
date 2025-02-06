@@ -1,6 +1,6 @@
 ## Hi 👋, It's me Alfina
 🚀 Full Stack MERN Developer | React.js | Node.js | MongoDB | Passionate About Clean Code & UI/UX  
-<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3AxaDUyc3d4MGgxd2k4eTV0a20zOHh5YnpoN2w1M3NhbjQyaDBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ1ZmFlanNhYzE3cnJqNHBteTgwOGZjNGt0Z3g0dW9ybG9laTJ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QPUwZQSbYbt7gjjifj/giphy.gif" />
 
 - 👨‍💻 Here's my [Portfolio](https://alfina-dev.netlify.app/)  
 
