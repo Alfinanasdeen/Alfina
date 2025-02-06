@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm It's me Alfina</h1>
+<h1 align="center">Hi 👋, It's me Alfina</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | React.js | Node.js | MongoDB | Passionate About Clean Code & UI/UX</h3>
 
 - 🌱 I’m currently learning **advanced full-stack development & scalability**
