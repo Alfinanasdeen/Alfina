@@ -40,7 +40,6 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=39858&format=png&color=FFFFFF" alt="sass" width="40" height="40"/> </a> 
   <h4 align="left">DEV TOOLS</h4>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="sass" width="40" height="40"/> </a> 
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg
-" alt="sass" width="40" height="40"/> </a> 
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="	https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="sass" width="40" height="40"/> </a> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="sass" width="40" height="40"/> </a> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="sass" width="40" height="40"/> </a> 
 </p>
